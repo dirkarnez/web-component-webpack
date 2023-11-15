@@ -2,6 +2,7 @@
 ===========================================================================
 ### Webpack
 - [**webpack-webcomponent-example/src/components/merely-nothing at master · minagawah/webpack-webcomponent-example**](https://github.com/minagawah/webpack-webcomponent-example/tree/master/src/components/merely-nothing)
+  - `import template from 'html-loader!./template.html';`
 
 ### Routing
 - [Declarative routing with web components | by Jasim | Medium](https://medium.com/@jasim/declarative-router-with-web-components-43ddcebc9dbc)
